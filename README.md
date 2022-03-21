@@ -1,2 +1,2 @@
-# sklearn
-基于sklearn框架介绍常见的机器学习算法
+## sklearn—PCA
+PCA基本知识
